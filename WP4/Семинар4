@@ -28,3 +28,5 @@ duckluckbreakout@ubuntuserver:/etc/apt/sources.list.d$ sudo snap install robomon
 robomongo 0.9.0-rc9 from Francesco Banconi (frankban) installed
 
 3. https://wiki.merionet.ru/servernye-resheniya/39/planirovshhik-cron-zapusk-programm-po-raspisaniyu/
+crontab -e
+*/3 * * * * mkdir new_directory
