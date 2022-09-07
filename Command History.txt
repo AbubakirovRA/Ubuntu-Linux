@@ -1,0 +1,2103 @@
+    1  sudo
+    2  sudo apt install openssh-server
+    3  ping ya.ru
+    4  ssh -V
+    5  pwd
+    6  cd /^C
+    7  cd /
+    8  dir
+    9  mc
+   10  /etc/ssh
+   11  sudo apt install openssh-server
+   12  sudo apt install update
+   13  sudo apt update
+   14  sudo systemctl enable ssh
+   15  ssh localhost
+   16  ssh 0.0.0.0
+   17  sudo apt install mc
+   18  mc
+   19  cd /etc/ssh
+   20  mc
+   21  sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.factory-default
+   22  dir
+   23  exit
+   24  sudo systevctl shh status
+   25  sudo systemctl shh status
+   26  sudo systemctl ssh status
+   27  sudo service systemctl ssh status
+   28  sudo service ssh status
+   29  sudo ifconfig
+   30  sudo apt-get install net-tools
+   31  mc
+   32  sudo ifconfig
+   33  sudo mc
+   34  pwd
+   35  cd /
+   36  pwd
+   37  cd media/
+   38  dir
+   39  cd abubakirov
+   40  dir
+   41  cd VBox_GAs_6.1.36
+   42  dir
+   43  sh VBoxLinuxAdditions.run
+   44  sudo sh VBoxLinuxAdditions.run
+   45  sudo mc
+   46  pwd
+   47  cd /
+   48  pwd
+   49  dir
+   50  cls
+   51  clear
+   52  dir
+   53  mc
+   54  sudo service ssh status
+   55  ifconfig
+   56  pwd
+   57  cd /
+   58  dir
+   59  ll
+   60  cd test3
+   61  vimtutor
+   62  nano
+   63  Mcedit
+   64  Ncedit
+   65  mcedit
+   66  mcedit test3
+   67  ll
+   68  mcedit testt
+   69  mcedit testi
+   70  les testt
+   71  less testt
+   72  /etc
+   73  ll
+   74  cd etc
+   75  cd /etc
+   76  ll
+   77  cat passwd
+   78  cat group
+   79  sudo su
+   80  q
+   81  quit
+   82  exit
+   83  mc
+   84  /etc/
+   85  cd /etc
+   86  ls
+   87  ls -al
+   88  cat vim
+   89  cd vim
+   90  ls
+   91  ls -al
+   92  cd vimrc
+   93  cat vimrc
+   94  /
+   95  cd /
+   96  ls
+   97  shutdown -h +5 "Пора спать!"
+   98  shutdown -h now
+   99  sudo shutdown -h +5 "Пора спать!"
+  100  cd /home
+  101  su
+  102  vFN3cEH3
+  103  su
+  104  sudo su
+  105  cd
+  106  cd ~
+  107  ls
+  108  ls -al
+  109  ls -l
+  110  pwd
+  111  cd /
+  112  pwd
+  113  dir
+  114  cd ~
+  115  dir
+  116  cd /
+  117  dir
+  118  cd
+  119  dir
+  120  pwd
+  121  cd /
+  122  pwd
+  123  cd
+  124  pwd
+  125  cd.\
+  126  pwd
+  127  cd /dev
+  128  cd /proc
+  129  pwd
+  130  cpuinfo
+  131  ls -al
+  132  ls -al /p
+  133  ls -al -p
+  134  ls -p -al
+  135  cpuinfo
+  136  sh cpuinfo
+  137  sudo sh cpuinfo
+  138  sudo su
+  139  cat cpuinfo
+  140  /dev
+  141  cd /dev
+  142  ls -al
+  143  cd /run
+  144  ls -al
+  145  ls
+  146  ls -a
+  147  ls -al
+  148  ls -a
+  149  ls --?
+  150  ls --help
+  151  man ls
+  152  pwd
+  153  pwd --help
+  154  pwd
+  155  cd
+  156  pwd
+  157  mkdir test
+  158  dir
+  159  cd test
+  160  cd..
+  161  cd
+  162  mkdir 1/2/3/4/5
+  163  mkdir - p 1/2/3/4/5
+  164  ls
+  165  ll
+  166  cd /5
+  167  pwd
+  168  dir
+  169  ls -al
+  170  cd -
+  171  cd-
+  172  cd -
+  173  cd p
+  174  mkdir -p 1/2/3/4/5
+  175  dir
+  176  ls -al
+  177  cd
+  178  dir
+  179  mkdir -p 1/2/3/4/5
+  180  ls -al
+  181  cd 1
+  182  cd 2
+  183  cd 3
+  184  cd 4
+  185  cd 5
+  186  dir
+  187  pwd
+  188  cd
+  189  mkdir -p e/r/t/y
+  190  la -al
+  191  cd e
+  192  dir
+  193  cd r
+  194  dir
+  195  cd t
+  196  cd y
+  197  cd u
+  198  cd
+  199  cd test
+  200  cat > testfile
+  201  ll
+  202  cp  testfile test2
+  203  ll
+  204  cd..
+  205  cd ..
+  206  ll
+  207  cp test test2
+  208  cp -r test test2
+  209  ll
+  210  cd test2
+  211  ll
+  212  cd
+  213  mv test test3
+  214  ll
+  215  cd test2
+  216  ll
+  217  rm test2
+  218  ll
+  219  cd
+  220  rm -rf test2
+  221  ll
+  222  cd test3
+  223  touch testt
+  224  ll
+  225  cat testfile test2 > test_all
+  226  ll
+  227  cat testall
+  228  cat test_all
+  229  cd
+  230  . --help
+  231  ll
+  232  cd test3/
+  233  ll
+  234  link test2 test_i
+  235  ll
+  236  ls -ali
+  237  cat >> tect_i
+  238  ll
+  239  cat >> test_i
+  240  ll
+  241  rm tect_i
+  242  ll
+  243  cat test2
+  244  vim
+  245  sudo apt install vim
+  246  ll
+  247  vim test2
+  248  ll
+  249  pwd
+  250  rm 1
+  251  rm -r 1
+  252  ll
+  253  rm -r e
+  254  ll
+  255  rm p
+  256  rm -r p
+  257  ll
+  258  cd test3
+  259  ll
+  260  vim test2
+  261  VIMTUTOR
+  262  vimtutior
+  263  vimtutor
+  264  sudo systemctl ssh status
+  265  ssh -V
+  266  sudo systemctl ssh status
+  267  sudo service ssh status
+  268  sudo ifconfig
+  269  su
+  270  cd /etc/ssh
+  271  ls -al
+  272  св
+  273  cd
+  274  ls -al
+  275  shutdown -h now
+  276  sudo shutdown -h now
+  277  pwd
+  278  dir
+  279  cd test3
+  280  ls -al
+  281  cat test2
+  282  cat >> test_i
+  283  cat test_i
+  284  cat test2
+  285  ls -al
+  286  rm test2
+  287  ls -al
+  288  rm test_all
+  289  rm testfike
+  290  rm testfile
+  291  rm test_i
+  292  rm testt
+  293  ls -al
+  294  cat > test1
+  295  cat test1
+  296  cat > test2
+  297  cat test2
+  298  cat test1 test2 > test_1_2
+  299  ls -al
+  300  cat test_1_2
+  301  mv test_1_2 test_all
+  302  ls -al
+  303  mkdir test_dir
+  304  ls -al
+  305  mv test1 /test_dir/
+  306  mv test1 /test_dir/test1
+  307  cat test2
+  308  cd
+  309  pwd
+  310  ls -al
+  311  cd test3
+  312  ls -al
+  313  cat test2
+  314  cat test1
+  315  cat test_all
+  316  cat >> test_all
+  317  cat test_all
+  318  cat >> test_all
+  319  cat test_all
+  320  vim test_all
+  321  nano test_all
+  322  cat test_all
+  323  pwd
+  324  ls
+  325  mv test_all /test_dir/test_all
+  326  pwd
+  327  mv /home/abubakirov/test3/test_all /home/abubakirov/test3/test_dir/test_all
+  328  ls
+  329  cd test_dir
+  330  ls
+  331  cd ..
+  332  rm -rf test_all
+  333  ls
+  334  rm -rf test_dir
+  335  ls
+  336  rm test1
+  337  rm test2
+  338  ls
+  339  ls -all
+  340  cat > file1
+  341  cp file1 file2
+  342  ls
+  343  ln file1 file3
+  344  ls
+  345  ls -al
+  346  rm file3
+  347  ls
+  348  ln file1 > file3
+  349  ln -s file1 file3
+  350  ls
+  351  rm file3
+  352  ls
+  353  ln -s file1 file3
+  354  ls
+  355  ls -al
+  356  ln file1 file4
+  357  ls -ali
+  358  rm file1
+  359  ls -al
+  360  ls -ali
+  361  cat file4
+  362  cat file3
+  363  mv file4 new_name4
+  364  mv file2 new_name2
+  365  ls
+  366  mkdir new_test_dir
+  367  ln -s new_name2 file3
+  368  rm file3
+  369  ln -s new_name2 file3
+  370  ls -al
+  371  pwd
+  372  mv /home/abubakirov/test3/file3 /home/abubakirov/test3/new_test_dir/file3
+  373  ls
+  374  cd new_test_dir/
+  375  ls
+  376  rm file3
+  377  ln -s /home/abubakirov/test3/new_name2 /home/abubakirov/test3/new_test_dir/file3
+  378  ls
+  379  mv file3 /home/abubakirov/file3
+  380  cd
+  381  pwd
+  382  ls
+  383  ls -al
+  384  cat file3
+  385  history
+  386  ls
+  387  rm file3
+  388  cd test3
+  389  cat test1
+  390  cat > test1
+  391  ls
+  392  cat test1
+  393  cat > test2
+  394  cat test1 test2 > test_all
+  395  ls
+  396  cat test_all
+  397  mv test_all test_all_new
+  398  ls
+  399  mkdir test_dir
+  400  ls
+  401  pwd
+  402  mv /home/abubakirov/test3/test_all /home/abubakirov/test3/test_dir/test_all
+  403  ls
+  404  mv /home/abubakirov/test3/test_all_new /home/abubakirov/test3/test_dir/test_all_new
+  405  ls
+  406  cd test_dir/
+  407  ls
+  408  shutdown -h now
+  409  sudo shutdown -h now
+  410  cat /etc/passwd
+  411  cat /ets/group
+  412  cat /etc/group
+  413  cat /etc/shadow
+  414  sudo cat /etc/shadow
+  415  sudo useradd -s /bin/bash -m -d /home/testuser testuser
+  416  tail /etc/passwd
+  417  sudo adduser testuser2
+  418  tail /etc/passwd
+  419  tail /etc/shadow
+  420  sudo tail /etc/shadow
+  421  sudo passwd testuser
+  422  sudo tail /etc/shadow
+  423  sudo ls -al /etc/skel
+  424  sudo usermod -aG adm testuser
+  425  id
+  426  sudo id testuser
+  427  sudo usermod -g www-data testuser
+  428  sudo id testuser
+  429  sudo userdel -r testuser2
+  430  sudo id testuser
+  431  sudo id testuser2
+  432  sudo tail /etc/shadow
+  433  sudo ls -al /home
+  434  sudo chage testuser
+  435  sudo groupadd testgroup
+  436  id
+  437  sudo groupdel testgroup
+  438  su testuser
+  439  id
+  440  sudo su
+  441  sudo visudo
+  442  sudo su
+  443  sudo visudo
+  444  cd test
+  445  ls
+  446  cd test3
+  447  ls
+  448  ll
+  449  cat > testt
+  450  ls
+  451  sudo chown testuser:www-data testt
+  452  ll
+  453  sudo chown -R testuser:www-data /home/abubakirov/test3
+  454  ll
+  455  ifconfig
+  456  sudo mc
+  457  history
+  458  pwd
+  459  ls -al
+  460  ls
+  461  cd test3
+  462  ls
+  463  ls -al
+  464  cd..
+  465  cd ..
+  466  ls
+  467  mkdir homeworks_ubuntu
+  468  ls
+  469  pwd
+  470  mv -r /home/abubakirov/test3/ /home/abubakirov/homeworks_ubuntu/
+  471  mv /home/abubakirov/test3/ /home/abubakirov/homeworks_ubuntu/
+  472  sudo mv /home/abubakirov/test3/ /home/abubakirov/homeworks_ubuntu/
+  473  ls
+  474  ls -al
+  475  cd homeworks_ubuntu/
+  476  ls
+  477  pwd
+  478  sudo mv /home/abubakirov/homeworks_ubuntu/test3/ /home/abubakirov/homeworks_ubuntu/HW2
+  479  ls
+  480  cd HW2/
+  481  ls
+  482  cd ..
+  483  mkdir
+  484  mkdir HW3
+  485  ls
+  486  cd HW
+  487  cd HW3
+  488  ls
+  489  touch test_file1
+  490  ls
+  491  touch test_file2
+  492  ls
+  493  id
+  494  su testuser
+  495  ls
+  496  ls -ll
+  497  chmode u+rw g+rw test_file1
+  498  chmod u+rw g+rw test_file1
+  499  chmod u+rw, g+rw test_file1
+  500  chmod u=rw, g+rw test_file1
+  501  hcmod help
+  502  chmod help
+  503  chmod --help
+  504  chmod ug+rw test_file1
+  505  chmod ug+rwx test_file1
+  506  ls -ll
+  507  chmod ug+rw test_file1
+  508  ls -ll
+  509  chmod ug-x test_file1
+  510  ls -ll
+  511  chmod ugo-rw test_file1
+  512  ls -ll
+  513  chmod ug+rw, o+r test_file1
+  514  chmod ug+rw,o+r test_file1
+  515  ls -ll
+  516  chmod ugo-rwx test_file1
+  517  ls -ll
+  518  chmod ug+rw,o+r test_file1
+  519  ls -ll
+  520  chmod ugo-rwx test_file2
+  521  ls -ll
+  522  chmod u-rw test_file2
+  523  ls -ll
+  524  chmod u+rw test_file2
+  525  ls -ll
+  526  chmod u-rw test_file2
+  527  ls -ll
+  528  chmod u+6 test_file2
+  529  chmod u+600 test_file2
+  530  chmod 600 test_file2
+  531  ls -ll
+  532  pwd
+  533  chown test_file2
+  534  chown --help
+  535  cat /etc/group
+  536  ls -ll
+  537  cd ..
+  538  ls -ll
+  539  sudo id testuser
+  540  id
+  541  sudo chown -R testuser:www-data HW3
+  542  ls -ll
+  543  sudo useradd -s /bin/bash -m -d /home/testuser testuser
+  544  addgroup testgroup2
+  545  sudo addgroup testgroup2
+  546  tail /etc/shadow
+  547  tail /etc/group
+  548  restart
+  549  reboot
+  550  sudo reboot
+  551  history
+  552  sudo mc
+  553  ls
+  554  cd media
+  555  sudo mc
+  556  useradd -s /bin/bash/ -m -d /home/testuser_new testuser_new
+  557  sudo useradd -s /bin/bash/ -m -d /home/testuser_new testuser_new
+  558  sudo useradd -s /bin/bash -m -d /home/testuser_new testuser_new
+  559  userdel testuser_new
+  560  sudo userdel testuser_new
+  561  sudo useradd -s /bin/bash -m -d /home/testuser_new testuser_new
+  562  sudo userdel -r testuser_new
+  563  tail /etc/shadow
+  564  sudo tail /etc/shadow
+  565  sudo useradd -s /bin/bash -m -d /home/testuser_new testuser_new
+  566  sudo tail /etc/shadow
+  567  sudo passwd testuser_new
+  568  sudo tail /etc/shadow
+  569  sudo tail /etc/group
+  570  ls
+  571  cd homeworks_ubuntu/
+  572  ls -ll
+  573  ls -llls -al
+  574  cd HW
+  575  cd HW3
+  576  ls
+  577  ls -al
+  578  usermode id testuser_new
+  579  id testuser_new
+  580  sudo usermode -g testuser_new testuser
+  581  sudo usermod -g testuser_new testuser
+  582  id testuser_new
+  583  id testuser
+  584  sudo usermod -g testuser testuser
+  585  id testuser
+  586  sudo usermod -aG testuser testuser
+  587  id testuser
+  588  sudo usermod -aG testuser testuser_new, adm, www-data
+  589  sudo usermod -aG testuser_new,adm,www-data testuser
+  590  id testuser
+  591  history
+  592  sudo usermod -aG sudo testuser
+  593  id testuser
+  594  sudo visudo
+  595  tail users
+  596  tail passwd
+  597  tail /etc/passwd
+  598  whoami
+  599  su testuser
+  600  tail shadow
+  601  tail /etc/shadow
+  602  sudo tail /etc/shadow
+  603  groupadd developer
+  604  sudo groupadd developer
+  605  sudo tail /etc/group
+  606  sudo usermod -aG developer testuser
+  607  id testuser
+  608  sudo usermod -aG developer testuser_new
+  609  id testuser_new
+  610  mkdir developer
+  611  sudo mkdir developer
+  612  ls
+  613  sudo chgrp -R developer
+  614  sudo chown -R developer developer
+  615  sudo chown -R :developer developer
+  616  ls -al
+  617  sudo chown -R testuser:developer developer
+  618  sudo chown -R testuser_new:developer developer
+  619  ls -al
+  620  sudo chown -R :developer developer
+  621  ls -al
+  622  cd developer/
+  623  chgrp -v developer ./
+  624  sudo chgrp -v developer ./
+  625  cd ..
+  626  sudo chgrp -v developer ./
+  627  ls -al
+  628  sudo chgrp -v www-data ./
+  629  ls -al
+  630  sudo chgrp -v developer developer
+  631  id testuser
+  632  id testuser_new
+  633  pwd
+  634  sudo chgrp -R developer /home/abubakirov/homeworks_ubuntu/HW3/developer
+  635  cd developer/
+  636  sudo mkdir sub_dir
+  637  ls
+  638  groups testuser
+  639  groups testuser_new
+  640  su testuser
+  641  sudo chgrp developer -R /home/abubakirov/homeworks_ubuntu/HW3/developer
+  642  sudo chmod ug+w -R /home/abubakirov/homeworks_ubuntu/HW3/developer
+  643  sudo chmod +s -R /home/abubakirov/homeworks_ubuntu/HW3/developer
+  644  su testuser
+  645  su testuser_new
+  646  history
+  647  ls -al
+  648  sudo chmod +t -R /home/abubakirov/homeworks_ubuntu/HW3/developer/sub_dir
+  649  ls -al
+  650  cd sub_dir
+  651  su testuser
+  652  su testuser_new
+  653  whoami
+  654  sudo chmod ugo-r -R /home/abubakirov/homeworks_ubuntu/HW3/developer
+  655  ls -al
+  656  cd..
+  657  cd ..
+  658  ls -al
+  659  cat file1
+  660  cat >> file1
+  661  sudo chmod ugo+r -R /home/abubakirov/homeworks_ubuntu/HW3/developer
+  662  ls -al
+  663  touch file2
+  664  sudo touch file2
+  665  cat > file2
+  666  sudo cat > file2
+  667  su testuser
+  668  id
+  669  ls -al
+  670  sudo chown testuser file2
+  671  ls -al
+  672  su testuser
+  673  id
+  674  sudo chmod ugo-r /home/abubakirov/homeworks_ubuntu/HW3/developer/file1
+  675  ls -al
+  676  su  testuser
+  677  ls
+  678  sudo chmod ugo+r /home/abubakirov/homeworks_ubuntu/HW3/developer/file1
+  679  ls
+  680  ls -al
+  681  sudo mv file1 /home/abubakirov/homeworks_ubuntu/HW3/developer/sub_dir/file1
+  682  ls -al
+  683  sudo mv file2 /home/abubakirov/homeworks_ubuntu/HW3/developer/sub_dir/file2
+  684  ls -al
+  685  cd sub_dir/
+  686  ls -al
+  687  id
+  688  sudo chmod ugo-r /home/abubakirov/homeworks_ubuntu/HW3/developer/sub_dir/
+  689  ls
+  690  ls -al
+  691  cat file1
+  692  ip a
+  693  ip -s -a
+  694  ip -s a
+  695  ifconfig
+  696  apt install nginx
+  697  sudo apt install nginx
+  698  sudo apt-add-repository ppa:nginx/stable
+  699  sudo apt install nginx
+  700  sudo apt update
+  701  sudo apt install nginx
+  702  тпштч
+  703  nginx
+  704  sudo service start nginx
+  705  sudo systemctl start nginx
+  706  sudo service nginx restart
+  707  sudo service nginx start
+  708  sudo vi/etc/nginx/nginx.conf
+  709  sudo vi /etc/nginx/nginx.conf
+  710  sudo apt install Appache
+  711  sudo apt install Apache
+  712  sudo apt install Apache2
+  713  sudo apt install apache2
+  714  sudo systemctl nginx enable
+  715  sudo systemctl apache enable
+  716  sudo systemctl apache2 enable
+  717  sudo systemctl nginx enable
+  718  sudo service nginx stop
+  719  sudo service nginx enable
+  720  sudo service nginx upgrade
+  721  sudo service nginx enable
+  722  sudo systemctl nginx enable
+  723  sudo systemctl enable nginx
+  724  sudo systemctl enable apache
+  725  sudo systemctl enable apache2
+  726  sudo reboot
+  727  curl localhost
+  728  sudo apt install curl
+  729  sudo apt install url
+  730  curl localhost
+  731  iptables -L
+  732  sudo iptables -L
+  733  sudo iptables -L nginx
+  734  ping ya.ru
+  735  clear
+  736  ss -tulpan
+  737  ip -a
+  738  ip a
+  739  ip -ы a
+  740  ip -s a
+  741  ip -c a
+  742  ip -cs a
+  743  ip -c -s a
+  744  ip a -s -c
+  745  ip -s -c a
+  746  ip r
+  747  clear
+  748  mc
+  749  cd /etc/netplan
+  750  ls -ll
+  751  mc
+  752  pwd
+  753  cd /etc/netplan
+  754  nano 01-network-manager-all.yaml
+  755  sudo nano 01-network-manager-all.yaml
+  756  cat 01-network-manager-all.yaml
+  757  iptables -L
+  758  curl localhost
+  759  ifconfig
+  760  sudo nano 01-network-manager-all.yaml
+  761  cat 01-network-manager-all.yaml
+  762  netplan try
+  763  sudo netplan try
+  764  ifconfig
+  765  sudo nano 01-network-manager-all.yaml
+  766  sudo netplan try
+  767  sudo nano 01-network-manager-all.yaml
+  768  sudo netplan try
+  769  ip a
+  770  mc
+  771  sudo nano 01-network-manager-all.yaml
+  772  sudo netplan try
+  773  ip a
+  774  cat 01-network-manager-all.yaml
+  775  sudo nano 01-network-manager-all.yaml
+  776  sudo netplan try
+  777  sudo nano 01-network-manager-all.yaml
+  778  sudo netplan try
+  779  sudo nano 01-network-manager-all.yaml
+  780  sudo netplan try
+  781  ip a
+  782  ifconfig
+  783  ip a
+  784  ip -s -c a
+  785  sudo nano 01-network-manager-all.yaml
+  786  sudo netplan try
+  787  sudo nano 01-network-manager-all.yaml
+  788  sudo netplan try
+  789  ip-r
+  790  ip -r
+  791  ip r
+  792  ip a
+  793  sudo nano 01-network-manager-all.yaml
+  794  sudo netplan try
+  795  sudo nano 01-network-manager-all.yaml
+  796  sudo netplan try
+  797  ip a
+  798  ip к
+  799  ip r
+  800  sudo nano 01-network-manager-all.yaml
+  801  sudo netplan try
+  802  ip a
+  803  sudo nano 01-network-manager-all.yaml
+  804  sudo netplan try
+  805  sudo nano 01-network-manager-all.yaml
+  806  sudo netplan try
+  807  ip r
+  808  sudo nano 01-network-manager-all.yaml
+  809  ip r
+  810  sudo netplan try
+  811  ip r
+  812  ss ntlp
+  813  ss -ntlp
+  814  ss -ntulp
+  815  ss -ntulpa
+  816  ss -tulpan
+  817  sudo ss -tulpan
+  818  ss ntlp
+  819  ss -ntlp
+  820  sudo ss -ntlp
+  821  sudo ss -ntlpu
+  822  sudo ss -tulpan
+  823  sudo nano 01-network-manager-all.yaml
+  824  cat /etx/hosts
+  825  cat /etc/hosts
+  826  resolvectl dns
+  827  man netplan
+  828  sudo nano 01-network-manager-all.yaml
+  829  sudo netplan try
+  830  sudo nano 01-network-manager-all.yaml
+  831  sudo netplan try
+  832  ip r
+  833  sudo nano 01-network-manager-all.yaml
+  834  sudo netplan try
+  835  ip r
+  836  ip a
+  837  ip к
+  838  ip r
+  839  cd /etc/netplan
+  840  cd ~
+  841  pwd
+  842  cp /etc/netplan/01-network-manager-all.yaml /home/abubakirov
+  843  mc
+  844  sudo nano 01-network-manager-all.yaml
+  845  mc
+  846  ршыещкн
+  847  history
+  848  mc
+  849  cd /etc/netplan
+  850  nano 01-network-manager-all.yaml
+  851  cat 01-network-manager-all.yaml
+  852  nano 01-network-manager-all.yaml
+  853  sudo nano 01-network-manager-all.yaml
+  854  sudo netplan try
+  855  ip a
+  856  ip r
+  857  iptables -L -nv
+  858  sudo iptables -L -nv
+  859  sudo iptables -A INPUT -p tcp --dport=22 ACCEPT
+  860  sudo iptables -A INPUT -p tcp --dport=22 -j ACCEPT
+  861  sudo iptables -L -nv
+  862  sudo iptables -A INPUT -p tcp --dport=80 -j ACCEPT
+  863  sudo iptables -A INPUT -p tcp --dport=443 -j ACCEPT
+  864  sudo iptables -L -nv
+  865  iptables -A INPUT -i lo _j ACCEPT
+  866  iptables -A INPUT -i lo -j ACCEPT
+  867  sudo iptables -A INPUT -i lo -j ACCEPT
+  868  sudo iptables -L -nv
+  869  sudo iptables -I INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+  870  sudo iptables -L -nv
+  871  sudo iptables -A INPUT -p icmp -j ACCEPT
+  872  sudo iptables -L -nv
+  873  sudo iptables -P INPUT DROP
+  874  sudo iptables -L -nv
+  875  sudo iptables -A INPUT -s 3.4.5.6 -j DROP
+  876  sudo iptables -L -nv
+  877  sudo iptables -t nat -I PREROUTING --dport=8090 -j REDIRECT --to-port=80
+  878  sudo iptables -t nat -I PREROUTING --dport 8090 -j REDIRECT --to-port 80
+  879  sudo iptables -t nat -I PREROUTING -p --dport 8090 -j REDIRECT --to-port 80
+  880  sudo iptables -t nat -I PREROUTING -p tcp --dport 8090 -j REDIRECT --to-port 80
+  881  sudo iptables -t nat -I PREROUTING -p all --dport 8090 -j REDIRECT --to-port 80
+  882  sudo iptables -L -nv -t nat
+  883  sudo iptables -L -nv
+  884  sudo iptables -A INPUT -s 192.168.0.0/24 -p tcp --dport 22 -j ACCEPT
+  885  sudo iptables -L -nv
+  886  ip a
+  887  sudo iptables -L -nv
+  888  sudo iptables-save > ip.rules
+  889  sudo iptables-save > iptables.rules
+  890  cd ~
+  891  sudo iptables-save > iptables.rules
+  892  ls -ll
+  893  cat iptables.rules
+  894  cd /etc/netplan
+  895  ls -ll
+  896  sudo iptamles -D INPUT 2
+  897  sudo iptables -D INPUT 2
+  898  sudo iptables -L -nv
+  899  history
+  900  Sudo apt install iptables-persistent netfilter-persistent
+  901  sudo apt install iptables-persistent netfilter-persistent
+  902  cd ~
+  903  sudo iptables-restore < iptables.rules
+  904  sudo iptables -L -nv
+  905  sudo iptables -D INPUT 8
+  906  sudo iptables -L -nv
+  907  sudo iptables -D INPUT 7
+  908  sudo iptables -L -nv
+  909  sudo iptables-save > iptables.rules
+  910  ls
+  911  cat iptables.rules
+  912  sudo iptables-persistent netfilter-persistent
+  913  sudo apt install iptables-persistent netfilter-persistent
+  914  sudo iptables -L -nv
+  915  sudo iptables -D INPUT 1
+  916  sudo iptables -L -nv
+  917  sudo apt install iptables-persistent netfilter-persistent
+  918  sudo reboot
+  919  clear
+  920  apt install docker.io
+  921  sudo apt install docker.io
+  922  sudo docker
+  923  вщслук зы
+  924  docker ps
+  925  sudo docker ps
+  926  sudo docker run hello-world
+  927  sudo docker ps
+  928  sudo docker ps -a
+  929  sudo docker images
+  930  sudo docker stop hello-world
+  931  sudo docker rm 033bf1ba6c5d
+  932  sudo docker ps -a
+  933  sudo docker rmi hello-world
+  934  sudo docker run -d --restart always --name nginx1 -p 80:80 -v /var/www/html:/usr/share/nginx/html nginx
+  935  sudo systemctl stop nginx
+  936  sudo systemctl stop apache2
+  937  sudo docker pull nginx
+  938  sudo docker run -d --restart always --name nginx1 -p 80:80 -v /var/www/html:/usr/share/nginx/html nginx
+  939  docker run -d --restart always --name nginx1 -p 80:80 -v /var/www/html:/usr/share/nginx/html ngin
+  940  sudo iptables -L
+  941  sudo iptables -L nginx
+  942  sudo docker exec -ti nginx1 bash
+  943  docker stop nginx1
+  944  sudo docker stop nginx1
+  945  sudo docker start nginx1
+  946  sudo docker rm nginx1
+  947  sudo docker stop nginx1
+  948  sudo docker rm nginx1
+  949  docker rmi nginx
+  950  sudo docker rmi nginx
+  951  ifconfig
+  952  history
+  953  sudo apt install iptables-persistent netfilter-persistent
+  954  sudo iptables -L -nv
+  955  pwd
+  956  sudo iptables-restore < iptables.rules
+  957  sudo iptables -L -nv
+  958  sudo apt install iptables-persistent netfilter-persistent
+  959  apt-get update
+  960  sudo apt-get update
+  961  ip a
+  962  cd /etc/netplan
+  963  ls
+  964  sudo nano 01-network-manager-all.yaml
+  965  sudo netplan try
+  966  ip a
+  967  ip r
+  968  sudo apt install iptables-persistent netfilter-persistent
+  969  cd /etc/iptables
+  970  ls
+  971  cat rules.v4
+  972  history
+973  sudo shootdown -h now
+  974  sudo shutdown -h now
+  975  ps -afx
+  976  history
+  977  clear
+  978  history
+  979  clear
+  980  nginx -version
+  981  nginx -v
+  982  curl -L https://ya.ru/
+  983  wget https://yastatic.net/jquery.2.1.4/jquery.min.js
+  984  wget https://yastatic.net/jquery/2.1.4/jquery.min.js
+  985  ls
+  986  cat jquery.min.js
+  987  clear
+  988  history
+  989  curl -L localhost
+  990  sudo nginx -t
+  991  sudo cat /etc/nginx/nginx.conf
+  992  man nginx
+  993  nginx --help
+  994  nginx -help
+  995  nginx -h
+  996  history
+  997  ss -ntlp
+  998  sudo systemctl start nginx
+  999  ss -ntlp
+ 1000  systemctl status nginx.service"
+ 1001  systemctl status nginx.service
+ 1002  apache -v
+ 1003  apache2 -v
+ 1004  history
+ 1005  clear
+ 1006  ss -ntlp
+ 1007  ip a
+ 1008  ip r
+ 1009  cd /etc/netplan/
+ 1010  ls
+ 1011  cat 01-network-manager-all.yaml
+ 1012  cd /etc/iptables
+ 1013  ls
+ 1014  cat rules.v4
+ 1015  sudo systemctl start nginx
+ 1016  systemctl status nginx.service
+ 1017  sudo -u %user% nginx -t
+ 1018  sudo -u abubakirov nginx -t
+ 1019  sudo nginx -t
+ 1020  cd /etc/nginx/conf.d/ev1.conf
+ 1021  cd ..
+ 1022  ls
+ 1023  cd nginx/
+ 1024  ls
+ 1025  cd conf.d/
+ 1026  ls
+ 1027  ls -ll
+ 1028  cd ..
+ 1029  ls
+ 1030  cat nginx.conf
+ 1031  mc
+ 1032  ~
+ 1033  mc
+ 1034  sudo nano nginx.conf
+ 1035  sudo systemctl start nginx
+ 1036  sudo systemctl status nginx.service
+ 1037  sudo nginx -t
+ 1038  mc
+ 1039  ls
+ 1040  pwd
+ 1041  cd ~
+ 1042  pwd
+ 1043  sudo cp /home/abubakirov/nginx.conf /etc/nginx
+ 1044  cd /etc/nginx/
+ 1045  ls
+ 1046  cat nginx.conf
+ 1047  sudo nginx -t
+ 1048  sudo systemctl start service nginx
+ 1049  sudo systemctl start nginx.service
+ 1050  journalctl -xeu nginx.service
+ 1051  ss -ntlp
+ 1052  sudo ss -tulpan
+ 1053  sudo cat /etc/nginx/modules-enabled/*.conf
+ 1054  cat /modules/ngx_http_geoip2_module.so
+ 1055  cat /etc/nginx/modules/ngx_http_geoip2_module.so
+ 1056  ls
+ 1057  cd modules-available/
+ 1058  ls
+ 1059  cd ..
+ 1060  cd modules-enabled/
+ 1061  ls
+ 1062  cd ..
+ 1063  sudo nginx -s reload
+ 1064  cd /etc/nginx/modules-enabled
+ 1065  cat 50-mod-stream.conf
+ 1066  cat 50-mod-http-xslt-filter.conf
+ 1067  cat 50-mod-http-image-filter.conf
+ 1068  mc
+ 1069  cd ..
+ 1070  ls
+ 1071  sudo nano nginx.conf
+ 1072  sudo nginx -t
+ 1073  sudo systemctl start nginx.service
+ 1074  systemctl status nginx.service
+ 1075  cat nginx.conf
+ 1076  sudo nano nginx.conf
+ 1077  sudo nginx -t
+ 1078  sudo nano nginx.conf
+ 1079  sudo nginx -t
+ 1080  systemctl status nginx.service
+ 1081  sudo systemctl start nginx.service
+ 1082  systemctl status nginx.service
+ 1083  cd  /etc/nginx/sites-enabled/
+ 1084  ls
+ 1085  sudo nano default
+ 1086  sudo nginx -t
+ 1087  sudo nano nginx.conf
+ 1088  cd ..
+ 1089  ls
+ 1090  sudo nano nginx.conf
+ 1091  sudo nginx -t
+ 1092  sudo systemctl start nginx.service
+ 1093  ss -ntlp
+ 1094  sudo ss -ntlp
+ 1095  ps a
+ 1096  ps afx
+ 1097  curl localhost808
+ 1098  curl localhost8080
+ 1099  curl localhost 8080
+ 1100  curl localhost:8080
+ 1101  iptables -L -nv
+ 1102  sudo iptables -L -nv
+ 1103  sudo iptables -A INPUT -p tsp -dport=8080 -j ACCEPT
+ 1104  sudo iptables -A INPUT -p tcp -dport=8080 -j ACCEPT
+ 1105  sudo iptables -A INPUT -p tcp -dport 8080 -j ACCEPT
+ 1106  sudo iptables -A INPUT -p tcp -dport=8080 -j ACCEPT
+ 1107  sudo iptables -P INPUT ACCEPT
+ 1108  sudo iptables -L -nv
+ 1109  curl localhost:8080
+ 1110  ды
+ 1111  ls
+ 1112  cd sites-enabled/
+ 1113  ls
+ 1114  sudo nano default
+ 1115  ss -ntlp
+ 1116  sudo ss -ntlp
+ 1117  cd ..
+ 1118  ls
+ 1119  cd apache2/
+ 1120  ls
+ 1121  sudo nano ports.conf
+ 1122  sudo systemctl reload nginx.service
+ 1123  sudo systemctl reload apach2.service
+ 1124  ss -ntlp
+ 1125  sudo ss -ntlp
+ 1126  sudo nginx -s reload
+ 1127  sudo ss -ntlp
+ 1128  sudo systemctl stop nginx.service
+ 1129  sudo ss -ntlp
+ 1130  sudo systemctl stop apach2
+ 1131  sudo systemctl stop apache2
+ 1132  sudo ss -ntlp
+ 1133  sudo systemctl start apache2
+ 1134  sudo ss -ntlp
+ 1135  sudo systemctl start nginx
+ 1136  sudo ss -ntlp
+ 1137  curl localhost
+ 1138  curl localhost:80
+ 1139  clear
+ 1140  sudo systemctl stop apache2
+ 1141  curl localhost
+ 1142  sudo ss -ntlp
+ 1143  cd ..
+ 1144  cd /etc/nginx
+ 1145  ls
+ 1146  sudo nano n
+ 1147  sudo nano nginx.conf
+ 1148  pwd
+ 1149  cd /etc/nginx/sites-available/
+ 1150  ls
+ 1151  cat default
+ 1152  nano default
+ 1153  sudo nano default
+ 1154  y
+ 1155  sudo systemctl reload nginx
+ 1156  ps -afx
+ 1157  cli sapi
+ 1158  cd /etc/php
+ 1159  cd /etc/php/
+ 1160  sudo apt install php
+ 1161  cd /etc/php/
+ 1162  ды
+ 1163  ls
+ 1164  cd 8.1/
+ 1165  ls
+ 1166  cd apache2/
+ 1167  ls
+ 1168  cat php.ini
+ 1169  cat php.ini /p
+ 1170  cat php.ini
+ 1171  ls
+ 1172  cd ..
+ 1173  ls
+ 1174  ls ll
+ 1175  ls -ll
+ 1176  sudo php -S
+ 1177  sudo php
+ 1178  <?php phpinfo();
+ 1179  sudo apt install php-fpm
+ 1180  cd ..
+ 1181  ls
+ 1182  cd 8.1/
+ 1183  ls
+ 1184  cd fpm/
+ 1185  ls
+ 1186  cd pool.d/
+ 1187  ls
+ 1188  cat www.conf
+ 1189  nginx -v
+ 1190  ps -afx
+ 1191  sudo su
+ 1192  cd /var/www/html
+ 1193  ls
+ 1194  cat index.html
+ 1195  nano /etc/nginx/sites-enabled/default
+ 1196  sudo nano /etc/nginx/sites-enabled/default
+ 1197  cat index.html
+ 1198  curl localhost
+ 1199  curl 192.168.0.1
+ 1200  curl 192.168.0.1:80
+ 1201  curl localhost:8080
+ 1202  curl localhost:8090
+ 1203  curl localhost:443
+ 1204  curl localhost:22
+ 1205  sudo nano /etc/nginx/sites-enabled/default
+ 1206  sudo nano /etc/nginx/sites-available/default
+ 1207  ls
+ 1208  sudo systemctl stop nginx
+ 1209  sudo systemctl start apache2
+ 1210  curl localhost
+ 1211  iptables -L -nv
+ 1212  sudo iptables -L -nv
+ 1213  sudo iptables -P INPUT DROP
+ 1214  sudo iptables -L -nv
+ 1215  ps
+ 1216  ps -afx
+ 1217  ip a
+ 1218  ss -ntlp
+ 1219  sudo ss -ntlp
+ 1220  sudo iptables -t nat -I PREROUTING -p tcp --dport 8080 -j REDIRECT --to-port 80
+ 1221  sudo iptables -L -nv
+ 1222  sudo iptables -L -nv -t nat
+ 1223  curl localhost
+ 1224  sudo curl localhost
+ 1225  sudo ss -ntlp
+ 1226  sudo iptables -L -nv -t nat
+ 1227  sudo iptables -D PREROUTING 1 -t nat
+ 1228  sudo iptables -L -nv -t nat
+ 1229  sudo iptables -L -nv
+ 1230  sudo curl localhost
+ 1231  sudo curl localhost:8080
+ 1232  cd /etc/apache2/
+ 1233  ls
+ 1234  cat apache2.conf
+ 1235  cat ports.conf
+ 1236  sudo nano ports.conf
+ 1237  sudo systemctl reload apache2
+ 1238  sudo curl localhost
+ 1239  sudo iptables -L -nv
+ 1240  sudo ss -ntlp
+ 1241  sudo nano ports.conf
+ 1242  sudo systemctl reload apache2
+ 1243  sudo ss -ntlp
+ 1244  sudo systemctl start apache2
+ 1245  sudo ss -ntlp
+ 1246  sudo systemctl start apache2
+ 1247  sudo nano ports.conf
+ 1248  sudo ss -ntlp
+ 1249  sudo systemctl reload apache2
+ 1250  sudo ss -ntlp
+ 1251  sudo iptables -t nat -I PREROUTING -p tcp --dport 8080 -j REDIRECT --to-port 80
+ 1252  sudo systemctl reload apache2
+ 1253  sudo iptables -L -nv -t nat
+ 1254  sudo iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+ 1255  sudo iptables -L -nv -t nat
+ 1256  sudo systemctl reload apache2
+ 1257  sudo ss -ntlp
+ 1258  sudo iptables -L -nv
+ 1259  sudo iptables -L -nv -t nat
+ 1260  sudo iptables -D PREROUTING 2 -t nat
+ 1261  sudo iptables -L -nv -t nat
+ 1262  sudo iptables -D PREROUTING 1 -t nat
+ 1263  sudo iptables -L -nv -t nat
+ 1264  sudo nano ports.conf
+ 1265  sudo systemctl reload apache2
+ 1266  sudo ss -ntlp
+ 1267  sudo nano ports.conf
+ 1268  sudo systemctl reload apache2
+ 1269  sudo ss -ntlp
+ 1270  sudo systemctl start nginx
+ 1271  sudo ss -ntlp
+ 1272  cd..
+ 1273  cd ..
+ 1274  ls
+ 1275  cd nginx/
+ 1276  ls
+ 1277  cd /var/www/html
+ 1278  ls
+ 1279  ps -afx
+ 1280  ss -ntlp
+ 1281  nano /etc/nginx/nginx.conf
+ 1282  sudo nano /etc/nginx/nginx.conf
+ 1283  sudo nano /etc/nginx
+ 1284  sudo nano /etc/nginx/sites-available/
+ 1285  sudo nano /etc/nginx/sites-available/default
+ 1286  sudo systemctl reload nginx
+ 1287  sudo systemctl restart nginx
+ 1288  sudo systemctl restart nginx.srvice
+ 1289  sudo systemctl restart nginx
+ 1290  sudo nginx.conf -t
+ 1291  sudo nginx -t
+ 1292  sudo nano /etc/nginx/sites-available/default
+ 1293  sudo nginx -t
+ 1294  apachectl -t
+ 1295  ps -afx
+ 1296  sudo nano /etc/nginx/sites-available/default
+ 1297  sudo systemctl restart nginx
+ 1298  ps -afx
+ 1299  sudo nano /etc/apache2/sites-enabled/000-default.conf
+ 1300  sudo systemctl reload apache2
+ 1301  ss -ntlp
+ 1302  sudo ss ntlp
+ 1303  sudo ss -ntlp
+ 1304  sudo iptables -L -nv
+ 1305  sudo iptables -A INPUT -p tcp --dport=8080 -j ACCEPT
+ 1306  sudo iptables -L -nv
+ 1307  sudo iptables -P INPUT DROP
+ 1308  sudo iptables -L -nv
+ 1309  sudo systemctl reload apache2
+ 1310  sudo ss -ntlp
+ 1311  sudo nano /etc/apache2/ports.conf
+ 1312  sudo systemctl reload apache2
+ 1313  sudo ss -ntlp
+ 1314  sudo systemctl start apache2
+ 1315  sudo ss -ntlp
+ 1316  sudo nano /etc/apache2/ports.conf
+ 1317  sudo systemctl reload apache2
+ 1318  sudo ss -ntlp
+ 1319  sudo systemctl start apache2
+ 1320  sudo ss -ntlp
+ 1321  sudo systemctl stop apache2
+ 1322  sudo systemctl start apache2
+ 1323  ps -afx
+ 1324  sudo nano /etc/nginx/sites-enabled/default
+ 1325  php -v
+ 1326  php-fpm -v
+ 1327  sudo nano /etc/nginx/sites-enabled/default
+ 1328  php -v
+ 1329  sudo nano /etc/nginx/sites-enabled/default
+ 1330  nginx -t
+ 1331  sudo nginx -t
+ 1332  sudo nano /etc/nginx/sites-enabled/default
+ 1333  cd /etc/nginx/
+ 1334  ls
+ 1335  sudo nano /etc/nginx/sites-enabled/default
+ 1336  sudo nginx -t
+ 1337  cat fastcgi.conf
+ 1338  sudo nano /etc/nginx/sites-enabled/default
+ 1339  sudo nginx -t
+ 1340  sudo systemctl restart nginx
+ 1341  sudo ps -afx
+ 1342  ss -ntlp
+ 1343  sudo ss -ntlp
+ 1344  sudo systemctl restart apache2
+ 1345  sudo nano /etc/nginx/sites-enabled/default
+ 1346  sudo nginx -t
+ 1347  sudo systemctl restart nginx
+ 1348  cd /var/www/html/
+ 1349  ls
+ 1350  sudo nano /etc/nginx/sites-enabled/default
+ 1351  sudo nginx -t
+ 1352  sudo systemctl restart nginx
+ 1353  apt list --upgradable
+ 1354  sudo apt -update
+ 1355  hystori
+ 1356  history
+ 1357  sudo apt update
+ 1358  apt list --upgradable
+ 1359  sudo apt update
+ 1360  sudo reboot
+ 1361  apt list --upgradable
+ 1362  sudo apt update
+ 1363  sudo iptables -P INPUT ACCEPT
+ 1364  sudo iptables -L -nv
+ 1365  sudo apt update
+ 1366  sudo iptables -P INPUT DROP
+ 1367  ps -afx
+ 1368  sudo systemctl stop nginx
+ 1369  ps -afx
+ 1370  sudo apt update
+ 1371  sudo apt upgrade
+ 1372  a2enmod proxy_fcgi setenvif
+
+включить PHP 8.1 FPM в Apache2
+ 1373  sudo a2enmod proxy_fcgi setenvif
+ 1374  sudo a2enconf php8.1-fpm
+
+мягкая перезагрузка Apache2
+ 1375  systemctl reload apache2
+
+ 1376  sudo apt update
+ 1377  sudo apt update
+ 1378  sudo iptables -L -nv
+ 1379  history
+
+отключаем модуль PHP в Apache2
+ 1380  sudo a2dismod php8.1
+ 1381  systemctl status ngnix
+ 1382  systemctl start ngnix
+ 1383  ps -afx
+ 1384  systemctl status nginx
+ 1385  systemctl status apache2
+ 1386  systemctl status nginx
+ 1387  systemctl status apache2
+ 1388  sudo systemctl enable php8.1-fpm
+ 1389  sudo ss -ntlp
+ 1390  sudo iptables -L -nv
+ 1391  sudo iptables -I INPUT 1 -p tcp --match multiport --dports 20,21,60000:65535 -j ACCEPT
+ 1392  sudo iptables -L -nv
+ 1393  sudo apt install iptables-persistent
+ 1394  sudo systemctl status iptables-persistent
+ 1395  sudo systemctl start iptables-persistent
+ 1396  sudo netfilter-persistent save
+ 1397  ls /usr/share/netfilter-persistent/plugins.d/
+ 1398  cat /usr/share/netfilter-persistent/plugins.d/15-ip4tables
+ 1399  sudo nano /etc/nginx/nginx.conf
+ 1400  systemctl status nginx
+ 1401  sudo curl 10.0.1.12
+ 1402  sudo nano /etc/nginx/sites-enabled/default
+ 1403  nginx -t
+ 1404  sudo nginx -t
+ 1405  sudo systemctl reload nginx
+ 1406  ыгвщ тфтщ /etc/php/7.4/fpm/pool.d/www.conf
+ 1407  sudo nano /etc/php/7.4/fpm/pool.d/www.conf
+ 1408  sudo nano /etc/php/8.1/fpm/pool.d/www.conf
+ 1409  sudo nano /etc/nginx/sites-enabled/default
+ 1410  sudo systemctl reload nginx
+ 1411  sudo nginx -t
+ 1412  cd /var/www/html
+ 1413  ls
+ 1414  touch index.php
+ 1415  sudo touch index.php
+ 1416  ls
+ 1417  sudo cat > index.php
+ 1418  sudo cat >> index.php
+ 1419  sudo nano index.php
+ 1420  sudo curl 10.0.1.12
+ 1421  cd /run/php/php8.1-fpm.sock
+ 1422  cd /run/php/
+ 1423  ls
+ 1424  cat php8.1-fpm.sock
+ 1425  sudo cat php8.1-fpm.sock
+ 1426  sudo cat php-fpm.sock
+ 1427  sudo nano php-fpm.sock
+ 1428  libapache2-mod-php -v
+ 1429  sudo apt install libapache2-mod-php
+ 1430  sudo nano /etc/apache2/ports.conf
+ 1431  sudo nano /etc/apache2/mods-available/dir.conf
+ 1432  sudo nano /etc/apache2/apache2.conf
+ 1433  a2dismod mpm_event
+ 1434  a2enmod mpm_prefork
+ 1435  sudo a2enmod mpm_prefork
+ 1436  a2enmod php8.1
+ 1437  a2enmod setenvif
+ 1438  a2enmod rewrite
+ 1439  sudo a2enmod rewrite
+ 1440  sudo systemctl restart apache2
+ 1441  sudo systemctl enable apache2
+ 1442  sudo systemctl restart apache2
+ 1443  зы -фач
+ 1444  ps -afx
+ 1445  sudo nano /etc/apache2/apache2.conf
+ 1446  sudo apache2 -t
+ 1447  sudo nano /etc/apache2/apache2.conf
+ 1448  sudo apache2 -t
+ 1449  sudo nano /etc/apache2/apache2.conf
+ 1450  sudo apache2 -t
+ 1451  ыы -тедз
+ 1452  sudo ss -ntlp
+ 1453  cd /etc/apache2/
+ 1454  ls
+ 1455  cat apache2.conf
+ 1456  sudo histoty
+ 1457  sudo history
+ 1458  sudo hystori
+ 1459  sudo history
+ 1460  history
+ 1461  cat /etc/apache2/mods-available/dir.conf
+ 1462  sudo nano apache2.conf
+ 1463  sudo apache2 -t
+ 1464  sudo nano apache2.conf
+ 1465  sudo a2dismod php8.1
+ 1466  sudo a2enmod php8.1
+ 1467  sudo systemctl restart apache2
+ 1468  sudo apache2 -t
+ 1469  php -v
+ 1470  php-fpm -v
+ 1471  sudo a2enmod php8.1.2
+ 1472  sudo a2dismod php8.1.2
+ 1473
+ 1474  apachectl -t
+ 1475  sudo iptables -L -nv -t nat
+ 1476  sudo iptables -L -nv
+ 1477  sudo iptables -D INPUT 3
+ 1478  sudo iptables -L -nv
+ 1479  sudo iptables -I INPUT 1 -p tcp --match multiport --dports 80,443,8080 -j ACCEPT
+ 1480  sudo iptables -L -nv
+ 1481  sudo ss -ntlp
+ 1482  sudo nano apache2.conf
+ 1483  apachectl -t
+ 1484  sudo systemctl restart apache2
+ 1485  sudo netfilter-persistent save
+ 1486  sudo nano /etc/nginx/sites-enabled/default
+ 1487  nginx -t
+ 1488  sudo nginx -t
+ 1489  sudo systemctl reload nginx
+ 1490  sudo nano /etc/nginx/sites-enabled/default
+ 1491  sudo systemctl reload nginx
+ 1492  sudo nano /etc/nginx/sites-enabled/default
+ 1493  sudo nginx -t
+ 1494  sudo systemctl reload nginx
+ 1495  sudo cd /etc/nginx/sites-enabled/
+ 1496  cd /etc/nginx/sites-enabled/
+ 1497  ls
+ 1498  sudo nano /etc/nginx/sites-enabled/default
+ 1499  sudo nginx -t
+ 1500  sudo nano /etc/nginx/sites-enabled/default
+ 1501  sudo nginx -t
+ 1502  sudo systemctl reload nginx
+ 1503  sudo iptables -L -nv
+ 1504  sudo iptables -D INPUT 1
+ 1505  sudo iptables -L -nv
+ 1506  sudo iptables -I INPUT 1 -p tcp --match multiport --dports 80,443 -j ACCEPT
+ 1507  sudo iptables -L -nv
+ 1508  sudo iptables netfilter-persistent save
+ 1509  sudo netfilter-persistent save
+ 1510  sudo ps -afx
+ 1511  sudo cat /etc/php/8.1/fpm/php-fpm.conf)
+ 1512  sudo cat /etc/php/8.1/fpm/php-fpm.conf
+ 1513  sudo systemctl stop php-fpm
+ 1514  sudo ps -afx
+ 1515  sudo systemctl stop php
+ 1516  sudoreboot
+ 1517  sudo reboot
+ 1518  sudo ps -afx
+ 1519  sudo pa asu | grep php-fpm
+ 1520  sudo ps asu | grep php-fpm
+ 1521  sudo ps -asu | grep php-fpm
+ 1522  sudo ps -afx | grep php-fpm
+ 1523  pidoff php-fpm
+ 1524  pidof php-fpm
+ 1525  sudo pidof php-fpm
+ 1526  sudo kill 788
+ 1527  sudo ps -afx | grep php-fpm
+ 1528  sudo ps -afx
+ 1529  sudo iptables -I INPUT 1 -p tcp --dport=8080 -j ACCEPT
+ 1530  sudo iptables -L -nv
+ 1531  sudo systemctl restart nginx
+ 1532  sudo systemctl restart apache
+ 1533  sudo systemctl restart apache2
+ 1534  sudo ss -ntlp
+ 1535  sudo systemctl start php
+ 1536  sudo systemctl start service.php
+ 1537  sudo systemctl start php-fpm
+ 1538  sudo service php-fpm start
+ 1539  sudo systemctl start php8.1-fpm
+ 1540  sudo ps -afx
+ 1541  sudo kill 2780
+ 1542  sudo ps -afx
+ 1543  sudo systemctl start php8.1
+ 1544  sudo systemctl start php8.1-fpm
+ 1545  sudo ps -afx
+ 1546  sudo iptables -L -nv
+ 1547  sudo iptables -D INPUT 1
+ 1548  sudo iptables -L -nv
+ 1549  sudo nano /etc/nginx/nginx.conf
+ 1550  cd /etc/nginx/
+ 1551  ls
+ 1552  cd conf.d/
+ 1553  ls
+ 1554  ls ll
+ 1555  ls -l
+ 1556  cd ..
+ 1557  cd snippets/
+ 1558  ls
+ 1559  cat fastcgi-php.conf
+ 1560  cd ..
+ 1561  sudo nano sites-enabled/default
+ 1562  sudo systemctl restart nginx
+ 1563  sudo nano sites-enabled/default
+ 1564  sudo systemctl restart nginx
+ 1565  sudo nginx -t
+ 1566  sudo systemctl restart nginx
+ 1567  sudo nano sites-enabled/default
+ 1568  sudo systemctl restart nginx
+ 1569  sudo nano sites-enabled/default
+ 1570  sudo systemctl restart nginx
+ 1571  sudo systemctl restart apache2
+ 1572  sudo nano sites-enabled/default
+ 1573  sudo systemctl restart nginx
+ 1574  cd /etc/apache2/
+ 1575  ls
+ 1576  cat apache2.conf
+ 1577  ls
+ 1578  cat ports.conf
+ 1579  ls sites-enabled/
+ 1580  cd sites-enabled/
+ 1581  sudo nano 000-default.conf
+ 1582  cd /var/www/html/
+ 1583  ls
+ 1584  sudo nano sites-enabled/default
+ 1585  sudo nano /etc/nginx/sites-enabled/default
+ 1586  ls
+ 1587  sudo mkdir txt
+ 1588  ls
+ 1589  cd txt
+ 1590  sudo cat > index.txt
+ 1591  sudo touch index.txt
+ 1592  sudo cat > index.txt
+ 1593  sudo cat >> index.txt
+ 1594  sudo nano index.txt
+ 1595  sudo nano /etc/nginx/sites-enabled/default
+ 1596  sudo systemctl restart nginx
+ 1597  sudo nano /etc/apache2/000-default.conf
+ 1598  cd /etc/apache2/
+ 1599  ls
+ 1600  suado cat apache2.conf
+ 1601  sudo cat apache2.conf
+ 1602  cd sites-enabled/
+ 1603  ls
+ 1604  sudo nano 000-default.conf
+ 1605  sudo apachectl -t
+ 1606  cd /var/www/html
+ 1607  sudo mkdir apache
+ 1608  ls
+ 1609  cd a
+ 1610  cd apache/
+ 1611  sudo cp /var/www/html/index.php /var/www/html/apache/
+ 1612  cd /var/www/html/
+ 1613  ls
+ 1614  sudo rm index.php
+ 1615  ls
+ 1616  cd apache/
+ 1617  ls
+ 1618  sudo systemctl restart nginx.service
+ 1619  sudo systemctl restart apache
+ 1620  sudo systemctl restart apache2
+ 1621  sudo cp /var/www/html/apache/index.php /var/www/html/
+ 1622  sudo rm /var/www/html/apache/index.php
+ 1623  sudo cp /var/www/html/index.php /var/www/html/apache/
+ 1624  sudo rm /var/www/html/index.php
+ 1625  ls
+ 1626  sudo apt install certbot phyton-certbot-nginx
+ 1627  sudo apt install certbot python3-certbot-nginx
+ 1628  mc
+ 1629  exit
+ 1630  pscp "D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\11. WEB\Workshop 2\Homework 2" abubakirov@10.0.1.12:/var/www/html -r
+ 1631  scp "D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\11. WEB\Workshop 2\Homework 2" abubakirov@10.0.1.12:/var/www/html -r
+ 1632  scp -r "D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\11. WEB\Workshop 2\Homework 2" abubakirov@10.0.1.12:/var/www/html
+ 1633  ls -ll /home
+ 1634  exit
+ 1635  ls -ll /home
+ 1636  cd /home/abubakirov/
+ 1637  ls -ll
+ 1638  cd Homework\ 2/
+ 1639  ls -ll
+ 1640  cat '$'\320\345\347\363\353\374\362\340\362''.png
+ 1641* sudo mv /var/www/html/Homework\ 2/ /var/www/html/
+ 1642  mv --h
+ 1643* sudo mv /home/abubakirov/Homework\ 2/ [200~'$'\320\345\347\363\353\374\362\340\3/var/www/html
+ 1644  cd ..
+ 1645  ls
+ 1646  sudo nano /etc/nginx/sites-enabled/
+ 1647  sudo nano /etc/nginx/sites-enabled/www.test.loc
+ 1648  sudo nginx -t
+ 1649  sudo systemctl restart nginx
+ 1650  sudo nginx -t
+ 1651  sudo nano /etc/nginx/sites-enabled/www.test.loc
+ 1652  sudo nginx -t
+ 1653  sudo systemctl restart nginx
+ 1654  sudo ps -afx
+ 1655  sudo iptables -L -nv
+ 1656  sudo ss -ntlp
+ 1657  ls
+ 1658  cd www.test.loc/
+ 1659  ls
+ 1660  cd /etc/nginx/
+ 1661  ls
+ 1662  cat nginx.conf
+ 1663  ls
+ 1664  cd sites-enabled/
+ 1665  ls
+ 1666  cat www.test.loc
+ 1667  ls -ll
+ 1668  cd /etc/nginx/sites-available/
+ 1669  ls -ll
+ 1670  sudo ls -ll
+ 1671  sudo ln /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+ 1672  cd /etc/nginx/sites-enabled
+ 1673  ls -ll
+ 1674  ls -ali
+ 1675  sudo cat www.test.loc
+ 1676  sudo cat /etc/nginx/sites-available/www.test.loc
+ 1677  ls
+ 1678  rm www.test.loc
+ 1679  ls
+ 1680  rm www.test.loc
+ 1681  sudo rm www.test.loc
+ 1682  sudo rm default
+ 1683  ls
+ 1684  sudo ln -s /etc/nginx/sites-available/www.test.loc /etc/nginx/sites-available/www.test.loc
+ 1685  ls
+ 1686  sudo ln -s /etc/nginx/sites-available/www.test.loc /etc/nginx/sites-enabled/www.test.loc
+ 1687  ls
+ 1688  sudo ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+ 1689  ls
+ 1690  cat d
+ 1691  cat default
+ 1692  cat www.test.loc
+ 1693  sudo nano www.test.loc
+ 1694  sudo systemctl restart nginx
+ 1695  sudo nano www.test.loc
+ 1696  sudo systemctl restart nginx
+ 1697  sudo nano www.test.loc
+ 1698  sudo systemctl restart nginx
+ 1699  sudo nano www.test.loc
+ 1700  sudo systemctl restart nginx
+ 1701  cat www.test.loc
+ 1702  ls
+ 1703  sudo rm default
+ 1704  ls
+ 1705  sudo systemctl restart nginx
+ 1706  sudo ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+ 1707  ls
+ 1708  sudo rm www.test.loc
+ 1709  sudo systemctl restart nginx
+ 1710  ls
+ 1711  cat default
+ 1712  sudo rm default
+ 1713  ls
+ 1714  sudo systemctl restart nginx
+ 1715  sudo ln -s /etc/nginx/sites-available/www.test.loc /etc/nginx/sites-enabled/test
+ 1716  ls
+ 1717  sudo systemctl restart nginx
+ 1718  sudo nano test
+ 1719  sudo systemctl restart nginx
+ 1720  sudo nano test
+ 1721  sudo systemctl restart nginx
+ 1722  sudo nano test
+ 1723  sudo systemctl restart nginx
+ 1724  cat test
+ 1725  cd ..
+ 1726  ls
+ 1727  cd snippets/
+ 1728  ls
+ 1729  cat fastcgi-php.conf
+ 1730  sudo nano /etc/nginx/sites-available/default
+ 1731  cat /etc/nginx/sites-available/default
+ 1732  sudo nano /etc/nginx/sites-available/www.test.loc
+ 1733  sudo systemctl restart nginx
+ 1734  cat test
+ 1735  cd ..
+ 1736  cd sites-enabled/
+ 1737  cat test
+ 1738  sudo nano /etc/nginx/sites-available/www.test.loc
+ 1739  sudo systemctl restart nginx
+ 1740  sudo nano /etc/nginx/sites-available/www.test.loc
+ 1741  sudo systemctl restart nginx
+ 1742  nginx -t
+ 1743  sudo nginx -t
+ 1744  sudo nano /etc/nginx/sites-available/www.test.loc
+ 1745  sudo nginx -t
+ 1746  sudo systemctl restart nginx
+ 1747  sudo nano /etc/nginx/sites-available/www.test.loc
+ 1748  sudo nginx -t
+ 1749  sudo systemctl restart nginx
+ 1750  sudo nano /etc/nginx/sites-available/www.test.loc
+ 1751  mc
+ 1752  sudo ps -afx
+ 1753  cd ..
+ 1754  cd apache2/
+ 1755  ls
+ 1756  cat apache2.conf
+ 1757  cd sites-enabled/
+ 1758  cat 000-default.conf
+ 1759  ls -ali
+ 1760  mc
+ 1761  sudo cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-available/test
+ 1762  ls
+ 1763  cd /etc/apache2/sites-available/
+ 1764  ls
+ 1765  sudo ln -s /etc/apache2/sites-available/test /etc/apache2/sites-enabled/test
+ 1766  cd /etc/apache2/sites-enabled
+ 1767  ls
+ 1768  sudo rm 000-default.conf
+ 1769  ls
+ 1770  sudo nano test
+ 1771  sudo systemctl restart nginx
+ 1772  sudo systemctl restart apache
+ 1773  sudo systemctl restart apache2
+ 1774  apachectl -t
+ 1775  sudo systemctl restart nginx
+ 1776  sudo nano /etc/nginx/sites-available/www.test.loc
+ 1777  sudo systemctl restart nginx
+ 1778  sudo nano /etc/nginx/sites-available/www.test.loc
+ 1779  sudo systemctl restart nginx
+ 1780  sudo nano /etc/nginx/sites-available/www.test.loc
+ 1781  sudo systemctl restart nginx
+ 1782  cd ..
+ 1783  ls
+ 1784  cat apache2.conf
+ 1785  sudo nano apache2.conf
+ 1786  sudo systemctl restart apache2
+ 1787  sudo nano /etc/nginx/sites-available/www.test.loc
+ 1788  sudo systemctl restart nginx
+ 1789  sudo nano /etc/nginx/sites-available/www.test.loc
+ 1790  sudo systemctl restart nginx
+ 1791  sudo nano /etc/nginx/sites-available/www.test.loc
+ 1792  sudo systemctl restart nginx
+ 1793  sudo nano /etc/nginx/sites-available/www.test.loc
+ 1794  sudo systemctl restart nginx
+ 1795  sudo nano /etc/nginx/sites-available/www.test.loc
+ 1796  sudo nano apache2.conf
+ 1797  ls
+ 1798  cd sites-e
+ 1799  cd sites-enabled/
+ 1800  ls
+ 1801  cat test
+ 1802  sudo nano test
+ 1803  sudo systemctl restart apache2
+ 1804  mc
+ 1805  sudo cp /var/www/html/apache/index.php /var/www/html/www.test.loc/
+ 1806  cd /var/www/html/www.test.loc/
+ 1807  ls
+ 1808  cd /etc/apache2/
+ 1809  ls
+ 1810  cat ports.conf
+ 1811  cd conf-enabled/
+ 1812  ls
+ 1813  cat php8.1-fpm.conf
+ 1814  cd ..
+ 1815  cd sites-available/
+ 1816  ls
+ 1817  cat 000-default.conf
+ 1818  cat test
+ 1819  sudo nano test
+ 1820  sudo mv /etc/apache2/sites-available/test /etc/apache2/sites-available/www.test.loc
+ 1821  ls
+ 1822  sudo ln -s /etc/apache2/sites-available/www.test.loc /etc/apache2/sites-available/www.test.loc.conf
+ 1823  cd .
+ 1824  cd ..
+ 1825  cd sites-enabled/
+ 1826  ls
+ 1827  sudo rm test
+ 1828  ls
+ 1829  sudo ln -s /etc/apache2/sites-available/www.test.loc /etc/apache2/sites-enabled/www.test.loc.conf
+ 1830  ls
+ 1831  sudo rm /etc/apache2/sites-available/www.test.loc.conf
+ 1832  sudo systemctl restart apache2
+ 1833  sudo systemctl restart nginx
+ 1834  cd sites-available/
+ 1835  cat www.test.loc.conf
+ 1836  mc
+ 1837  sudo nano www.test.loc.conf
+ 1838  sudo systemctl restart apache2
+ 1839  mc
+ 1840  cd /var/www/html/
+ 1841  ls
+ 1842  cd apache/
+ 1843  ls
+ 1844  sudo nano www.test.loc.conf
+ 1845  cd /etc/apache2/sites-enabled
+ 1846  ls
+ 1847  sudo nano www.test.loc.conf
+ 1848  sudo systemctl restart apache2
+ 1849  sudo systemctl restart nginx
+ 1850  cd /var/www/html/
+ 1851  ls
+ 1852  sudo nano /etc/apache2/sites-enabled/www.test.loc.conf
+ 1853  sudo systemctl restart apache2
+ 1854  sudo nano /etc/apache2/sites-enabled/www.test.loc.conf
+ 1855  sudo systemctl restart apache2
+ 1856  sudo nano /etc/apache2/sites-enabled/www.test.loc.conf
+ 1857  sudo systemctl restart apache2
+ 1858  sudo nano /etc/nginx/sites-enabled/www.test.loc
+ 1859  sudo nano /etc/nginx/sites-enabled/
+ 1860  cd /etc/nginx/sites-enabled/
+ 1861  ls
+ 1862  sudo rm test
+ 1863  sudo ln -s /etc/nginx/sites-available/www.test.loc /etc/nginx/sites-enabled/www.test.loc.conf
+ 1864  ls
+ 1865* sudo systemctl restart ngin
+ 1866  ls
+ 1867  sudo nano www.test.loc.conf
+ 1868  sudo systemctl restart nginx
+ 1869  sudo nano www.test.loc.conf
+ 1870  cd /etc/nginx/sites-available/
+ 1871  ls
+ 1872  cat www.test.loc
+ 1873  cat default
+ 1874  sudo nano www.test.loc.conf
+ 1875  cd /etc/nginx/sites-enabled$
+ 1876  cd /etc/nginx/sites-enabled
+ 1877  ls
+ 1878  sudo nano www.test.loc.conf
+ 1879  sudo systemctl restart nginx
+ 1880  sudo nano www.test.loc.conf
+ 1881  sudo systemctl restart nginx
+ 1882  sudo nginx -t
+ 1883  sudo nano www.test.loc.conf
+ 1884  sudo nginx -t
+ 1885  sudo systemctl restart nginx
+ 1886  nano /etc/apache2/sites-available/
+ 1887  nano /etc/apache2/sites-available/www.test.loc
+ 1888  sudo nano /etc/apache2/sites-available/www.test.loc
+ 1889  sudo systemctl restart apache2
+ 1890  sudo cp /var/www/html/apache/index.php /var/www/html/www.test.loc/
+ 1891  sudo systemctl restart apache2
+ 1892  sudo systemctl restart nginx
+ 1893  mc
+ 1894  sudo nano www.test.loc.conf
+ 1895  sudo systemctl restart nginx
+ 1896  ls
+ 1897  sudo nano www.test.loc.conf
+ 1898  sudo nginx -t
+ 1899  sudo systemctl restart nginx
+ 1900  mc
+ 1901  sudo systemctl restart nginx
+ 1902  sudo systemctl restart apache2
+ 1903  sudo ps -afx
+ 1904  sudo ss -ntlp
+ 1905  ls
+ 1906  sudo rm www.test.loc.conf
+ 1907  sudo ln -s /etc/nginx/sites-available/www.test.loc /etc/nginx/sites-enabled/www.test.loc
+ 1908  ls
+ 1909  sudo systemctl restart nginx
+ 1910  cat www.test.loc
+ 1911  sudo nano www.test.loc.conf
+ 1912  sudo nano www.test.loc
+ 1913  sudo systemctl restart nginx
+ 1914  sudo nano www.test.loc
+ 1915  sudo ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+ 1916  ls
+ 1917  sudo systemctl restart nginx
+ 1918  cat default
+ 1919  sudo nano www.test.loc
+ 1920  cat www.test.loc
+ 1921  sudo nano www.test.loc
+ 1922  sudo systemctl restart nginx
+ 1923  ls
+ 1924  sudo rm default
+ 1925  ls
+ 1926  sudo systemctl restart nginx
+ 1927  nginx -t
+ 1928  sudo nginx -t
+ 1929  sudo systemctl restart nginx
+ 1930  sudo nano www.test.loc
+ 1931  sudo systemctl restart nginx
+ 1932  sudo nano www.test.loc
+ 1933  sudo systemctl restart nginx
+ 1934  sudo nano www.test.loc
+ 1935  sudo systemctl restart nginx
+ 1936  cd /etc/apache2/sites-available/
+ 1937  ls
+ 1938  sudo nano www.test.loc
+ 1939  sudo systemctl restart apache2
+ 1940  cd /var/www/
+ 1941  ls
+ 1942  cd html/
+ 1943  ls
+ 1944  sudo mv www.test.loc/ /var/www/
+ 1945  ls
+ 1946  cd ..
+ 1947  ls
+ 1948  cd /etc/nginx/
+ 1949  ls
+ 1950  cd sites-available/
+ 1951  ls
+ 1952  sudo nano www.test.loc
+ 1953  sudo systemctl restart nginx.service
+ 1954  sudo nano www.test.loc
+ 1955  sudo nano /etc/apache2/sites-available
+ 1956  sudo nano /etc/apache2/sites-available/www.test.loc
+ 1957  sudo systemctl restart apache2
+ 1958  sudo /etc/hosts
+ 1959  sudo cd /etc/hosts/
+ 1960  cd /etc/hosts/
+ 1961  sudo nano /etc/hosts
+ 1962  sudo systemctl restart apache2
+ 1963  sudo systemctl restart nginx
+ 1964  sudo mc
+ 1965  sudo ln -s /etc/apache2/sites-available/test.loc /etc/apache2/sites-enabled/
+ 1966  cd ..
+ 1967  cd /etc/apache2/sites-enabled/
+ 1968  ls
+ 1969  cat test.loc
+ 1970  sudo nano test.loc
+ 1971  cd /etc/nginx/
+ 1972  ls
+ 1973  cd sites-available/
+ 1974  ls
+ 1975  sudo mv www.test.loc test.loc
+ 1976  ls
+ 1977  sudo ln -s test.loc /etc/nginx/sites-enabled/
+ 1978  cd /etc/nginx/sites-enabled/
+ 1979  ls
+ 1980  sudo rm test.loc
+ 1981  sudo rm www.test.loc
+ 1982  sudo ln -s /etc/nginx/sites-available/test.loc /etc/nginx/sites-enabled/
+ 1983  ls
+ 1984  sudo nano test.loc
+ 1985  sudo systemctl restert apa2
+ 1986  sudo systemctl restart apache2
+ 1987  sudo systemctl restart nginx
+ 1988  sudo mv /var/www/www.test.loc/ /var/www/test.loc
+ 1989  cd /v
+ 1990  cd /var/www/
+ 1991  ls
+ 1992  sudo systemctl restart nginx
+ 1993  sudo systemctl restart apache2
+ 1994  cd /etc/nginx/
+ 1995  cd sites-enabled/
+ 1996  ls
+ 1997  cat test.loc
+ 1998  sudo nano test.loc
+ 1999  sudo systemctl restart nginx
+ 2000  sudo nano test.loc
+ 2001  sudo systemctl restart nginx
+ 2002  sudo mc
+ 2003  sudo systemctl restart nginx
+ 2004  sudo nano test.loc
+ 2005  sudo systemctl restart nginx
+ 2006  ~
+ 2007  cd ~
+ 2008  ls
+ 2009  cat nginx.conf
+ 2010  sudo mc
+ 2011  sudo ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/
+ 2012  sudo ln -s /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-enabled/
+ 2013  sudo systemctl restart nginx
+ 2014  sudo systemctl restart apache2
+ 2015  sudo apt install mysql
+ 2016  sudo apt install mysql-server mysql-client
+ 2017  mysql -V
+ 2018  sudo systemctl status mysql
+ 2019  sudo mysql_secure_installation
+ 2020  sudo mysql -u root
+ 2021  sudo systemctl stop mysql
+ 2022  sudo killall -KILL mysql mysqld_safe mysqld
+ 2023  sudo apt -y purge mysql-server mysql-client
+ 2024  sudo apt -y autoremove --purge
+ 2025  sudo apt autoclean
+ 2026  sudo deluser --remove-home mysql
+ 2027  sudo delgroup mysql
+ 2028  sudo rm -rf /etc/apparmor.d/abstractions/mysql /etc/apparmor.d/cache/usr.sbin.mysqld /etc/mysql /var/lib/mysql /var/log/mysql* /var/log/upstart/mysql.log* /var/run/mysqld
+ 2029  sudo find / -name .mysql_history -delete
+ 2030  sudo apt install mariadb-server
+ 2031  systemctl enable mariadb
+ 2032  mysqladmin -u root password
+ 2033  sudo mysqladmin -u root password
+ 2034  mysql -uroot -p
+ 2035  apt install php-mysql php-mysqli
+ 2036  sudo apt install php-mysql php-mysqli
+ 2037  systemctl restart php8.1-fpm
+ 2038  sudo apt install phpmyadmin
+ 2039  mysql -uroot -p
+ 2040  sudo mc
+ 2041  cd /etc/nginx/sites-enabled/
+ 2042  ls
+ 2043  sudo touch phpmyadmin.conf
+ 2044  sudo nano phpmyadmin.conf
+ 2045  sudo nano /etc/host
+ 2046  ls
+ 2047  sudo mv /etc/nginx/sites-enabled/test.loc /etc/nginx/sites-enabled/test.loc.conf
+ 2048  cd /etc/
+ 2049  sudo nano hosts
+ 2050  sudo systemctl restart nginx
+ 2051  sudo mc
+ 2052  sudo ln -s /etc/nginx/sites-available/default.conf /etc/nginx/sites-enabled/
+ 2053  sudo ln -s /etc/nginx/sites-available/test.loc.conf /etc/nginx/sites-enabled/
+ 2054  sudo ln -s /etc/nginx/sites-available/phpmyadmin.conf /etc/nginx/sites-enabled/
+ 2055  sudo systemctl restart nginx
+ 2056  sudo nano hosts
+ 2057  sudo mc
+ 2058  sudo nginx -t
+ 2059  sudo mc
+ 2060  cd /etc/apache2/
+ 2061  ls
+ 2062  cat apache2.conf
+ 2063  sudo nano apache2.conf
+ 2064  sudo systemctl restart apache2
+ 2065  sudo systemctl restart nginx
+ 2066  cd /etc/nginx/
+ 2067  ls
+ 2068  cd sites-enabled/
+ 2069  ls
+ 2070  cat default.conf
+ 2071  sudo rm default.conf
+ 2072  ls
+ 2073  sudo nano test.loc.conf
+ 2074  sudo systemctl restart nginx
+ 2075  cat phpmyadmin.conf
+ 2076  sudo nano /etc/hosts
+ 2077  sudo systemctl restart nginx
+ 2078  sudo nano /etc/hosts
+ 2079  sudo systemctl restart nginx
+ 2080  sudo nano /etc/hosts
+ 2081  sudo systemctl restart nginx
+ 2082  sudo nano test.loc.conf
+ 2083  sudo systemctl restart nginx
+ 2084  sudo nano test.loc.conf
+ 2085  sudo systemctl restart nginx
+ 2086  sudo nano test.loc.conf
+ 2087  sudo nano phpmyadmin.conf
+ 2088  sudo nano test.loc.conf
+ 2089  sudo systemctl restart nginx
+ 2090  sudo nano test.loc.conf
+ 2091  sudo systemctl restart nginx
+ 2092  sudo nano test.loc.conf
+ 2093  sudo systemctl restart nginx
+ 2094  sudo nano /etc/hosts
+ 2095  sudo systemctl restart nginx
+ 2096  history
