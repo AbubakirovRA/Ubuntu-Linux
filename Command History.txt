@@ -1,3 +1,7 @@
+    
+Работа с историей команд в bash^
+https://adminunix.ru/rabota-v-linux-s-istoriej-komand-history/#:~:text=History%20-c%20—%20очистить%20историю,.bashrc%20дописываем%3A%20%24%20nano%20.bashrc
+
     1  sudo
     2  sudo apt install openssh-server
     3  ping ya.ru
@@ -2100,4 +2104,257 @@
  2093  sudo systemctl restart nginx
  2094  sudo nano /etc/hosts
  2095  sudo systemctl restart nginx
- 2096  history
+ 1748  history
+1749  sudo nano phpmyadmin.conf
+ 1750  sudo nano /etc/hosts
+ 1751  sudo shutdown -now
+ 1752  sudo shutdown now
+ 1753  sudo ifconfig
+ 1754  sudo iptables -L -nv
+ 1755  sudo iptables -I INPUT 1 -p tcp --match multiport --dports 22,80,443 -j ACCEPT
+ 1756  sudo iptables -L -nv
+ 1757  sudo iptables -D INPUT 2
+ 1758  sudo iptables -L -nv
+ 1759  sudo netfilter-persistent save
+ 1760  sudo nano /etc/hosts
+ 1761  sudo netfilter-persistent save
+ 1762  sudo nano /etc/hosts
+ 1763  sudo systemctl restart nginx
+ 1764  sudo systemctl restart apache2
+ 1765  id -nG
+ 1766  exit
+ 1767  id -nG
+ 1768  docker
+ 1769  docker info
+ 1770  docker
+ 1771  sudo systemctl status docker
+ 1772  docker run hello-world
+ 1773  docker search ubuntu
+ 1774  docker images
+ 1775  exit
+ 1776  sudo curl -L https://github.com/docker/compose/releases/download/2.10.2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+ 1777  sudo curl -L https://github.com/docker/compose/releases/download/1.29.2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+ 1778  sudo systemctl status docker-compose
+ 1779  sudo curl -L https://github.com/docker/compose/releases/download/2.10.2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+ 1780  sudo chmod +x /usr/local/bin/docker-compose
+ 1781  docker-compose --version
+ 1782  sudo docker-compose -v
+ 1783  sudo curl -L https://github.com/docker/compose/releases/download/2.10.2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+ 1784  curl -h
+ 1785  sudo curl -L https://github.com/docker/compose/releases/download/v2.10.2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+ 1786  sudo systemctl status docker-compose
+ 1787  sudo chmod +x /usr/local/bin/docker-compose
+ 1788  sudo systemctl status docker-compose
+ 1789  sudo docker-compose -v
+ 1790  history
+ 1791  mc
+ 1792  ~
+ 1793  sudo mkdir wordpress && cd wordpress
+ 1794  sudo mkdir nginx-conf
+ 1795  nano nginx-conf/nginx.conf
+ 1796  sudo nano nginx-conf/nginx.conf
+ 1797  pwd
+ 1798  nano .env
+ 1799  sudo nano .env
+ 1800  nano .dockerignore
+ 1801  sudo nano .dockerignore
+ 1802  sudo nano docker-compose.yml
+ 1803  docker-compose up -d
+ 1804  sudo docker-compose up -d
+ 1805  sudo nano docker-compose.yml
+ 1806  sudo docker-compose up -d
+ 1807  sudo nano docker-compose.yml
+ 1808  sudo systemctl stop nginx
+ 1809  ss -ntlp
+ 1810  sudo ss -ntlp
+ 1811  ps -afx
+ 1812  sudo nano docker-compose.yml
+ 1813  sudo docker-compose up -d
+ 1814  sudo nano docker-compose.yml
+ 1815  sudo docker-compose up -d
+ 1816  sudo nano docker-compose.yml
+ 1817  sudo docker-compose up -d
+ 1818  sudo nano docker-compose.yml
+ 1819  sudo docker-compose up -d
+ 1820  docker network list
+ 1821  sudo docker network list
+ 1822  sudo nano docker-compose.yml
+ 1823  cd /var/lib/mysql
+ 1824  ls
+ 1825  cd mysql/
+ 1826  sudo CD M
+ 1827  sudo CD m
+ 1828  sudo cd mysql/
+ 1829  ls
+ 1830  cd mysql/
+ 1831  sudo su
+ 1832  ~
+ 1833  pwd
+ 1834  cd ~
+ 1835  ~
+ 1836  ls
+ 1837  cd wordpress/
+ 1838  ls
+ 1839  cd nginx-conf/
+ 1840  ls
+ 1841  cd ..
+ 1842  ls
+ 1843  ls -ll
+ 1844  mc
+ 1845  sudo mc
+ 1846  sudo docker-compose up -d
+ 1847  ls
+ 1848  sudo nano docker-compose.yml
+ 1849  sudo docker-compose up -d
+ 1850  sudo nano docker-compose.yml
+ 1851  sudo docker-compose up -d
+ 1852  sudo nano docker-compose.yml
+ 1853  sudo docker-compose up -d
+ 1854  sudo nano docker-compose.yml
+ 1855  sudo docker-compose up -d
+ 1856  sudo nano docker-compose.yml
+ 1857  sudo docker-compose up -d
+ 1858  sudo nano docker-compose.yml
+ 1859  sudo docker-compose up -d
+ 1860  sudo nano docker-compose.yml
+ 1861  sudo docker-compose up -d
+ 1862  sudo nano docker-compose.yml
+ 1863  sudo docker-compose up -d
+ 1864  sudo nano docker-compose.yml
+ 1865  docker-compose ps
+ 1866  exit
+ 1867  sudo upgrade
+ 1868  sudo apt full-upgrade
+ 1869  docker-machine -v
+ 1870  docker -v
+ 1871  docker info
+ 1872  sudo docker info
+ 1873  docker-compose -v
+ 1874  sudo sudo apt update
+ 1875  sudo apt install apt-transport-https ca-certificates curl software-properties-common
+ 1876  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+ 1877  sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+ 1878  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
+ 1879  sudo apt update
+ 1880  apt-cache policy docker-ce
+ 1881  sudo docker -v
+ 1882  sudo apt install docker-ce
+ 1883  sudo systemctl status docker
+ 1884  sudo apt install docker-ce
+ 1885  sudo systemctl status docker
+ 1886  sudo usermod -aG docker ${abubakirov}
+ 1887  sudo usermod -aG docker $abubakirov
+ 1888  su - ${abubakirov}
+ 1889  su - $abubakirov
+ 1890  su abubakirov
+ 1891  sudo usermod -aG docker abubakirov
+ 1892  su abubakirov
+ 1893  exit
+ 1894  sudo systemctl status docker
+ 1895  exit
+ 1896  sudo docker-compose up -d
+ 1897  pwd
+ 1898  ls
+ 1899  cd wordpress/
+ 1900  ls
+ 1901  sudo docker-compose up -d
+ 1902  sudo nano docker-compose.yml
+ 1903  sudo docker-compose up -d
+ 1904  sudo nano docker-compose.yml
+ 1905  sudo docker-compose up -d
+ 1906  sudo nano docker-compose.yml
+ 1907  sudo docker-compose up -d
+ 1908  sudo docker ps -a
+ 1909  sudo docker stop e78d07967ca3
+ 1910  sudo docker ps -a
+ 1911  sudo docker stop wordpress
+ 1912  sudo docker ps -a
+ 1913  docker stop wordpress
+ 1914  id
+ 1915  sudo docker ps
+ 1916  docker rm hello-world
+ 1917  sudo docker ps -a
+ 1918  docker rm youthful_lumiere
+ 1919  sudo docker ps -a
+ 1920  docker rm zealous_mestorf
+ 1921  docker rm db
+ 1922  docker rm wordpress
+ 1923  docker rm db
+ 1924  sudo docker ps -a
+ 1925  sudo docker up -d
+ 1926  sudo docker-compose up -d
+ 1927  sudo docker ps -a
+ 1928  sudo docker ps
+ 1929  sudo docker-compose up -d
+ 1930  sudo docker ps
+ 1931  sudo docker ps -a
+ 1932  docker rm wordpress
+ 1933  sudo docker ps -a
+ 1934  sudo docker-compose up -d
+ 1935  sudo docker ps -a
+ 1936  docker rename wordpress wordpress1
+ 1937  sudo docker-compose up -d
+ 1938  sudo docker ps -a
+ 1939  sudo nano docker-compose.yml
+ 1940  sudo docker ps -a
+ 1941  docker stop wordpress
+ 1942  docker stop wordpress1
+ 1943  docker stop db
+ 1944  sudo docker ps -a
+ 1945  docker rm wordpress1
+ 1946  sudo docker-compose up -d
+ 1947  sudo docker ps -a
+ 1948  sudo nano docker-compose.yml
+ 1949  sudo docker ps -a
+ 1950  docker rm wordpress
+ 1951  docker stop db
+ 1952  sudo docker ps -a
+ 1953  docker stop db
+ 1954  docker rm db
+ 1955  sudo docker ps -a
+ 1956  sudo docker-compose up -d
+ 1957  sudo docker ps -a
+ 1958  sudo docker ps
+ 1959  ls
+ 1960  cd nginx-conf/
+ 1961  ls
+ 1962  sudo nano nginx.conf
+ 1963  docker stop db
+ 1964  docker stop wordpress
+ 1965  docker stop webserver
+ 1966  sudo docker-compose up -d
+ 1967  sudo nano nginx.conf
+ 1968  sudo docker ps -a
+ 1969  sudo docker-compose up -d
+ 1970  docker stop db
+ 1971  sudo docker-compose up -d
+ 1972  sudo docker ps -a
+ 1973  sudo docker ps
+ 1974  docker-compose logs service_name
+ 1975  docker-compose logs nginx.conf db
+ 1976  cd ..
+ 1977  ls
+ 1978  cd ..
+ 1979  ls
+ 1980  mc
+ 1981  sudo mc
+ 1982  docker stop db
+ 1983  sudo docker ps
+ 1984  sudo docker-compose up -d
+ 1985  docker stop wordpress
+ 1986  docker stop webserver
+ 1987  sudo docker ps
+ 1988  sudo docker-compose up -d
+ 1989  pwd
+ 1990  cd wordpress/
+ 1991  sudo docker-compose up -d
+ 1992  sudo docker ps
+ 1993  sudo docker ps -a
+ 1994  sudo docker ps
+ 1995  sudo nano /etc/hosts
+ 1996  sudo ss -ntlp
+ 1997  sudo ps -afx
+ 1998  exit
+ 1999  sudo ps -afx
+ 2000  sudo iptables -L -nv
+ 2001  history
